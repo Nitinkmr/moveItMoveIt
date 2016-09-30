@@ -7,7 +7,6 @@
 	@ aayushmittal
 -->
 
-> This is a Move It system for Netaji Subhas Intitute of Technology.
 > This is a private repo project.
 > The collaborators must read these instructions before contributing. 
 
@@ -15,7 +14,7 @@
 
 * Never commit direct to **Master Branch**. Commits will be directly hard resetted.
 
-* Make a new baranch for every new feature.
+* Make a new branch for every new feature.
 
 * Submit the pull request.
 
