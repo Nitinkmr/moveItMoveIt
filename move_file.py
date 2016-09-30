@@ -24,6 +24,8 @@ def move(src,dest):
 				# print(filename)
 				os.rename(path,dest+'/'+filename)		
 
+def get_trackId():
+	return id
 
 src=os.path.dirname(os.path.abspath(__file__))
 # src='/home/varun/Downloads'
